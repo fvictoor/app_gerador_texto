@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Env files
+*.env
+app/.env
+
+# Streamlit
+.streamlit/
