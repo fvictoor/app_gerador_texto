@@ -1,0 +1,1 @@
+# app_gerador_texto
